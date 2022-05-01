@@ -9,34 +9,34 @@ The From is the same for Add and edit buttons because not reason to use over tha
 #
 #
 Start to create container for form
-![startbuttonnewarticles.png](startbuttonnewarticles.png)
+![startbuttonnewarticles.png](Images/startbuttonnewarticles.png)
 #
 #
 #
 The look of finish Form
-![endform](endform.png)
+![endform](Images/endform.png)
 #
 #
 #
 Some smoll things cannot save a post with nothing insaid
-![recuaremustfillthefield](recuaremustfillthefield.png)
+![recuaremustfillthefield](Images/recuaremustfillthefield.png)
 #
 #
 #
 The Post's will be arange from the new to old
-![Arangearticlesfromthenewonthetop](Arangearticlesfromthenewonthetop.png)
+![Arangearticlesfromthenewonthetop](Images/Arangearticlesfromthenewonthetop.png)
 #
 #
 #
 Start render form form _form_fields.js
-![startrenderfrom_from..](startrenderfrom_from...png)
+![startrenderfrom_from..](Images/startrenderfrom_from...png)
 #
 #
 #
 Some security
-![Securityfornotcreatehtmlpageinlabel](Securityfornotcreatehtmlpageinlabel.png)
+![Securityfornotcreatehtmlpageinlabel](Images/Securityfornotcreatehtmlpageinlabel.png)
 #
 #
 #
 And working New Article buton(I add after and date current and edit and delet)
-![testbootstarpcss](testbootstarpcss.png)
+![testbootstarpcss](Images/testbootstarpcss.png)
